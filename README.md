@@ -7,12 +7,12 @@
   empresas. Tendo isso em mente, separamos algumas perguntas que vão nos ajudar a visualizar essa diferença
   
   ## Perguntas.
--Quantas horas foram jogadas no total em jogos indie na Steam?
--Qual ano mais foi lançado jogos indie na Steam?  
--Dos jogos mais populares da Steam, quantos são indie? 
--Qual a média de preço dos jogos indie na Steam? 
--Os jogos  desenvovidos são comaptíveis com todos os sistemas operacionais? 
--Quais são os Top 10 developers indie? 
--Quais são os top 10 maiores gêneros indie? 
--Top 10 maiores categorias de jogos (categories)?
--Quantidade de jogos na Steam? 
+- Quantas horas foram jogadas no total em jogos indie na Steam?
+- Qual ano mais foi lançado jogos indie na Steam?  
+- Dos jogos mais populares da Steam, quantos são indie? 
+- Qual a média de preço dos jogos indie na Steam? 
+- Os jogos  desenvovidos são comaptíveis com todos os sistemas operacionais? 
+- Quais são os Top 10 developers indie? 
+- Quais são os top 10 maiores gêneros indie? 
+- Top 10 maiores categorias de jogos (categories)?
+- Quantidade de jogos na Steam? 
