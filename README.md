@@ -16,3 +16,4 @@
 - Quais são os top 10 maiores gêneros indie? 
 - Top 10 maiores categorias de jogos (categories)?
 - Quantidade de jogos na Steam? 
+.
