@@ -6,8 +6,8 @@ CREATE TABLE jogos (
     nome VARCHAR (255),
     data_lancamento VARCHAR (255),
     genero VARCHAR (255),
-    tempo_de_jogo_medio TEXT,
-    preco_jogo TEXT,
+    tempo_de_jogo_medio INT,
+    preco_jogo DOUBLE,
     classificacao_indicativa VARCHAR (255)
 );
 
