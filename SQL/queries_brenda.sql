@@ -28,7 +28,7 @@ LIMIT 5;
 
 #Quantas horas foram jogadas no total em jogos indie na Steam? 
 SELECT 
-    SUM(jogos.tempo_de_jogo_medio)
+    AVG(jogos.tempo_de_jogo_medio) 
 FROM
     jogos
 WHERE
@@ -36,8 +36,8 @@ WHERE
     
     #Quantas horas foram jogadas no total em jogos não indie na Steam? 
 SELECT 
-    SUM(jogos.tempo_de_jogo_medio)
+    AVG(jogos.tempo_de_jogo_medio)
 FROM
     jogos
-WHERE
+WHERE 
     NOT genero LIKE '%Indie%';
