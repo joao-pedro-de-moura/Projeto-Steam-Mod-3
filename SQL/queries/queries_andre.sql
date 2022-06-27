@@ -20,6 +20,7 @@ FROM
 GROUP BY ano
 ORDER BY frequencia DESC
 LIMIT 5;
+<<<<<<< HEAD:SQL/queries_andre.sql
 
 # Entre os 10 jogos mais bem avaliados, quais são desenvolvedores indie?
 SELECT 
@@ -40,3 +41,5 @@ FROM
 WHERE
     subquery.genero LIKE '%Indie%'
 ORDER BY avaliacoes_positivas DESC;
+=======
+>>>>>>> 29d871d (add: queries folder):SQL/queries/queries_andre.sql
