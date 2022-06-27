@@ -33,3 +33,11 @@ FROM
     jogos
 WHERE
     genero LIKE '%Indie%';
+    
+    #Quantas horas foram jogadas no total em jogos não indie na Steam? 
+SELECT 
+    SUM(jogos.tempo_de_jogo_medio)
+FROM
+    jogos
+WHERE
+    NOT genero LIKE '%Indie%';
