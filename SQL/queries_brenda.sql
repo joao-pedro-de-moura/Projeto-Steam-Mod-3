@@ -11,3 +11,17 @@ WHERE
 GROUP BY nome
 ORDER BY avaliacoes_positivas DESC
 LIMIT 5;
+
+#Quais são os top 5 jogos não indie mais bem avaliado?
+SELECT 
+    jogos.nome,
+    avaliacoes.avaliacoes_positivas
+FROM
+    jogos
+        INNER JOIN
+    avaliacoes ON jogos.appid = avaliacoes.appid
+    WHERE NOT
+    genero LIKE '%Indie%'
+GROUP BY nome
+ORDER BY avaliacoes_positivas DESC
+LIMIT 5;
