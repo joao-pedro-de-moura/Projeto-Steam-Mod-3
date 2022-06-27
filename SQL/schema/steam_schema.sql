@@ -55,8 +55,8 @@ CREATE TABLE desenvolvedores (
 CREATE TABLE avaliacoes (
     id_avaliacao BIGINT PRIMARY KEY AUTO_INCREMENT not null,
     appid BIGINT,
-    avaliacoes_positivas VARCHAR (255),
-    avaliacoes_negativas VARCHAR (255),
+    avaliacoes_positivas INT,
+    avaliacoes_negativas INT,
     CONSTRAINT fk_appid_avaliacoes FOREIGN KEY (appid)
  REFERENCES jogos(appid)
  ON DELETE CASCADE
