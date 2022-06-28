@@ -26,7 +26,7 @@ GROUP BY nome
 ORDER BY avaliacoes_positivas DESC
 LIMIT 5;
 
-#Quantas horas foram jogadas no total em jogos indie na Steam? 
+#tempo media de jogo indie na Steam? 
 SELECT 
     AVG(jogos.tempo_de_jogo_medio) 
 FROM
@@ -34,7 +34,7 @@ FROM
 WHERE
     genero LIKE '%Indie%';
     
-    #Quantas horas foram jogadas no total em jogos não indie na Steam? 
+    #tempo media de jogo nao indie na Steam? 
 SELECT 
     AVG(jogos.tempo_de_jogo_medio)
 FROM
