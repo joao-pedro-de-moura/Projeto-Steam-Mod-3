@@ -24,3 +24,13 @@ FROM
 WHERE
     nome_plataforma LIKE '%windows_mac_linux%'
         AND genero LIKE '%indie%';    
+        
+#Quantos jogos não indie desenvovidos são comaptíveis com todos os sistemas operacionais?
+SELECT 
+    count(jogos.appid)
+FROM
+    jogos
+        INNER JOIN
+    plataformas ON jogos.appid = plataformas.appid
+WHERE
+    nome_plataforma LIKE '%windows_mac_linux%';
