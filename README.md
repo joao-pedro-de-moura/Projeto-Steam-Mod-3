@@ -7,41 +7,55 @@
   empresas. Tendo isso em mente, separamos algumas perguntas que vão nos ajudar a visualizar essa diferença
   
   ## Perguntas.
-- Quantas horas foram jogadas no total em jogos indie na Steam?
-- Qual ano mais foi lançado jogos indie na Steam?  
-- Dos jogos mais populares da Steam, quantos são indie? 
-- Qual a média de preço dos jogos indie na Steam? 
-- Os jogos  desenvovidos são comaptíveis com todos os sistemas operacionais? 
-- Quais são os Top 10 developers indie? 
-- Quais são os top 10 maiores gêneros indie? 
-- Top 10 maiores categorias de jogos (categories)?
-- Quantidade de jogos na Steam? 
+→ Quantos jogos na Steam são Indie e não Indie?
+→ Os jogos desenvolvidos são compativeis com todos os sistesmas operacionais?
+→ Qual é a média de preço dos jogos na Steam?
+→ Qual o tempo médio de jogos na Steam?
+→ Quais são os top 10 desenvolvedores?
+→ Quais são os 5 jogos Indie e não Indie mais bem avaliados na Steam?
+→ Dentre os 10 jogos com mais avaliações positivas na Steam, quantos são Indie?
+→ Dentre os 10 jogos com mais avaliações negativas na Steam, quantos são Indie?
+→ Quantos jogos foram lançados na Steam entre 2015 e 2018
 
 ## Leitura de Graficos
 
-![1](https://user-images.githubusercontent.com/102768045/176340134-e469fb7e-5799-4c7b-9395-760d5a2c3a1b.png)
-![2](https://user-images.githubusercontent.com/102768045/176340138-8056ac7f-482f-453d-8241-27dc266abf5f.png)
-![3](https://user-images.githubusercontent.com/102768045/176340140-a1d720c1-6ca3-47d1-85a6-9e00af3d6252.png)
-![5](https://user-images.githubusercontent.com/102768045/176340141-7f9b1803-c880-4b1e-a14e-2b97b408ecdc.png)
-![6](https://user-images.githubusercontent.com/102768045/176340143-dcb8bbe2-228b-47fc-ab67-19f57b9365ec.png)
-![7](https://user-images.githubusercontent.com/102768045/176340144-ed63849e-daa2-46c5-b5b8-8e6f316eb22e.png)
-![9](https://user-images.githubusercontent.com/102768045/176340146-6a687557-a8db-49cc-b507-93968739e7aa.png)
-![10](https://user-images.githubusercontent.com/102768045/176340148-5f39d40c-239e-49e5-8b45-af40a2150d3b.png)
-![11](https://user-images.githubusercontent.com/102768045/176340151-48b03ef3-77b3-4fc4-af53-c6f8156a5eeb.png)
+![1](https://user-images.githubusercontent.com/102768045/176586240-8c9cdd47-1d1d-4924-9f74-fc6971328948.png)
+![2](https://user-images.githubusercontent.com/102768045/176586244-f4a5fe49-0427-4274-9e50-58603d94e0c6.png)
+![3](https://user-images.githubusercontent.com/102768045/176586245-b2f9c78f-f9d0-4e18-ba11-67d40d9f2395.png)
+![4](https://user-images.githubusercontent.com/102768045/176586247-1936403f-a696-4a5a-b568-c310082d7582.png)
+![5](https://user-images.githubusercontent.com/102768045/176586253-b6c36d23-42d3-4c4b-9d9f-aeacef71c2d9.png)
+![6](https://user-images.githubusercontent.com/102768045/176586255-554f5ff4-2857-49c0-bdde-3d791af8093a.png)
+![7](https://user-images.githubusercontent.com/102768045/176586257-c962b452-f3de-47c4-aabf-6f6badb3d4a8.png)
+![8](https://user-images.githubusercontent.com/102768045/176586260-9d745936-e4cb-45fc-bd5a-af678f10a5c6.png)
+![9](https://user-images.githubusercontent.com/102768045/176586262-cbbaf09d-53dd-4a69-a294-5ccf5fd3c250.png)
+![10](https://user-images.githubusercontent.com/102768045/176586263-1aaa8b65-f9f7-4b71-826f-16167bb1544f.png)
+![11](https://user-images.githubusercontent.com/102768045/176586264-3fc124a1-28ae-464c-ac92-939acff2fc50.png)
+
 
 
 ## Conclusão
 
-Ao observarmos as leituras graficas propostas, podemos levantar algumas interpretações a respeito do desempenho dos jogos considerados indie e não indie.
+Observando os dados que podemos coletar durante a apresentação, podemos concluir que os jogos de estúdios independentes possuem um grande potencial pouco explorado. Sendo assim, algumas das possíveis sugestões para a solução desse caso envolve aumentar a quantidade de recursos em torno dos títulos produzidos por desenvolvedores independentes, sejam eles espaços seletos de destaque de apresentação na plataforma ou um grau de investimento da plataforma Steam para os desenvolvedores de títulos independentes considerados de grande potencial de retorno financeiro.
+
 
 ## Quem Somos
 
+**João Pedro de Moura**
+
 [![github_PNG40 (1)](https://user-images.githubusercontent.com/102768045/176338954-7157b982-4ed1-4013-a5ca-e1cd6900eef0.png)](https://github.com/joao-pedro-de-moura)
+
+**Felipe Daniel da Silva**
 
 [![github_PNG40 (1)](https://user-images.githubusercontent.com/102768045/176338954-7157b982-4ed1-4013-a5ca-e1cd6900eef0.png)](https://github.com/FelipeDev123)
 
+**Lisandra de Cassia**
+
 [![github_PNG40 (1)](https://user-images.githubusercontent.com/102768045/176338954-7157b982-4ed1-4013-a5ca-e1cd6900eef0.png)](https://github.com/Lisandradecassia)
 
+**André Siqueira**
+
 [![github_PNG40 (1)](https://user-images.githubusercontent.com/102768045/176338954-7157b982-4ed1-4013-a5ca-e1cd6900eef0.png)](https://github.com/andre-sqr)
+
+**Brenda Tondin**
 
 [![github_PNG40 (1)](https://user-images.githubusercontent.com/102768045/176338954-7157b982-4ed1-4013-a5ca-e1cd6900eef0.png)](https://github.com/brendatondin)
