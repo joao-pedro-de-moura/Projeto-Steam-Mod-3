@@ -7,20 +7,20 @@
   empresas. Tendo isso em mente, separamos algumas perguntas que vão nos ajudar a visualizar essa diferença
   
   ## Perguntas.
-→ Quantos jogos na Steam são Indie e não Indie?
-→ Os jogos desenvolvidos são compativeis com todos os sistesmas operacionais?
-→ Qual é a média de preço dos jogos na Steam?
-→ Qual o tempo médio de jogos na Steam?
-→ Quais são os top 10 desenvolvedores?
-→ Quais são os 5 jogos Indie e não Indie mais bem avaliados na Steam?
-→ Dentre os 10 jogos com mais avaliações positivas na Steam, quantos são Indie?
-→ Dentre os 10 jogos com mais avaliações negativas na Steam, quantos são Indie?
-→ Quantos jogos foram lançados na Steam entre 2015 e 2018
+- Quantos jogos na Steam são Indie e não Indie?
+- Os jogos desenvolvidos são compativeis com todos os sistesmas operacionais?
+- Qual é a média de preço dos jogos na Steam?
+- Qual o tempo médio de jogos na Steam?
+- Quais são os top 10 desenvolvedores?
+- Quais são os 5 jogos Indie e não Indie mais bem avaliados na Steam?
+- Dentre os 10 jogos com mais avaliações positivas na Steam, quantos são Indie?
+- Dentre os 10 jogos com mais avaliações negativas na Steam, quantos são Indie?
+- Quantos jogos foram lançados na Steam entre 2015 e 2018
 
 ## Leitura de Graficos
 
 ![1](https://user-images.githubusercontent.com/102768045/176586240-8c9cdd47-1d1d-4924-9f74-fc6971328948.png)
-![2](https://user-images.githubusercontent.com/102768045/176586244-f4a5fe49-0427-4274-9e50-58603d94e0c6.png)
+![WhatsApp Image 2022-07-01 at 00 01 22](https://user-images.githubusercontent.com/102768045/176816290-3a6a8fb2-0dc6-4976-90d1-13f7c5482444.jpeg)
 ![3](https://user-images.githubusercontent.com/102768045/176586245-b2f9c78f-f9d0-4e18-ba11-67d40d9f2395.png)
 ![4](https://user-images.githubusercontent.com/102768045/176586247-1936403f-a696-4a5a-b568-c310082d7582.png)
 ![5](https://user-images.githubusercontent.com/102768045/176586253-b6c36d23-42d3-4c4b-9d9f-aeacef71c2d9.png)
