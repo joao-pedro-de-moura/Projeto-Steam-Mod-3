@@ -5,7 +5,26 @@
   e com isso, levantar perguntas e respostas relevantes de acordo com o tema escolhido.
   O tema do projeto escolhido foi observar e entender como os jogos Indies se relacionam com os jogadores da plataforma em comparação a jogos Triple A de grandes
   empresas. Tendo isso em mente, separamos algumas perguntas que vão nos ajudar a visualizar essa diferença
-  
+
+## _Tecnologia_
+</a>
+<a href="https://www.mysql.com/">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo do MySQL">
+</a>
+<a href="">
+    <img height="32" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" alt="logo do excel">
+</a>
+<a href="">
+    <img height="32" src="https://img.icons8.com/ios/500/notion.png" alt="Logo do Notion">
+</a>
+<a href="">
+    <img height="32" src="https://play-lh.googleusercontent.com/3aWGqSf3T_p3F6wc8FFvcZcnjWlxpZdNaqFVEvPwQ1gTOPkVoZwq6cYvfK9eCkwCXbRY=w600-h300-pc0xffffff-pd" alt="Logo do canva">
+</a>
+<a href="https://git-scm.com/">
+   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Javascript"/>
+</a>
+&nbsp;
+
   ## Perguntas.
 - Quantos jogos na Steam são Indie e não Indie?
 - Os jogos desenvolvidos são compativeis com todos os sistesmas operacionais?
