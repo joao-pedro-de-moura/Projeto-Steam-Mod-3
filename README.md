@@ -1,4 +1,4 @@
-# Steam Indie
+# <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt="Logo do MySQL"> Steam Indie 
 ## _Sobre o projeto_
 
   Olá, somos o squad 3 do terceiro Módulo do curso de desenvolvedores full stack do Resilia. Neste projeto, recebemos como proposta, avaliar uma serie de dados
